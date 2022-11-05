@@ -2,7 +2,7 @@ import java.lang.Math.*;
 import java.lang.Number.*;
 import java.util.Scanner;
 
-class Ques3
+class NumberQues
 
 {
     private double double_val;

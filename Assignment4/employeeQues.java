@@ -17,7 +17,7 @@ class Employee{
     }
 
 }
-class Ques2 {
+class employeeQues {
     public static void main(String[] args)
     {
         // Create 3 objects of class Employee 

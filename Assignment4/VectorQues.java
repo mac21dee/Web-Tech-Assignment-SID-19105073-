@@ -1,5 +1,5 @@
 import java.util.*;
-class Ques1{
+class VectorQues{
     public static void main(String[] args)
     {
         // Take the size of vector as input from user 
